@@ -1,0 +1,14 @@
+layout_spectrum: 0.762226
+color:
+  saturation: 0.6618887
+  lightness: 0.2074199
+  brandStrength: 0.7892074
+  brandColors:
+    - '#0D0C04'
+    - '#F2F9FB'
+    - '#A3BDCF'
+    - '#A34B2F'
+    - '#E9CF65'
+  rhythmicContrast: 0.7925801
+typography_spectrum: 0.6467116
+name: SWE.TECH
